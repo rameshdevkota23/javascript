@@ -12,9 +12,6 @@
      main = document.getElementById("id1");
      main.appendChild(element);
 
-
-
-
 </script>
 
 </body>
